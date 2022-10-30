@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamzee345
 - 👀 I’m interested in learning to programming languages
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here or by email
 
